@@ -1,0 +1,1 @@
+$ hadoop jar **Absolute path of the Jar file ***   *** Main Class Name**   *** Absolute input path in HDFS  ***    *** Absolute output path in HDFS*** 
